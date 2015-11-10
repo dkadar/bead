@@ -40,14 +40,14 @@
     
         + Publikus:
         
-            - Főoldal
-			- Leírás
-            - Bejelentkezés
+	  - Főoldal
+	  - Leírás
+	  - Bejelentkezés
         
         + Felhasználó
         
             - Főoldal
-			- Leírás
+	    - Leírás
             - Bejelentkezés/Kijelentkezés
             - Házimunkák listája
                 + új házimunka felvétele
@@ -118,5 +118,5 @@
 
 ##Tesztelés
 - A tesztelést Windows 8.1 operációs rendszeren, Google Chrome-ban végeztem Selenium IDE használatával végeztem
-- Hozzáadtam a listához egy új tantárgyat, leírását módosítottam, majd töröltem
+- Hozzáadtam a listához egy új todot, leírását módosítottam, majd töröltem
 - A tesztelés sikeres volt
