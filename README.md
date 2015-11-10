@@ -20,7 +20,7 @@
         + Felhasználó: A vendég szerepkörén túl tud új házimunkát hozzáadni, illetve megnézheti az eddigi listát, ahol a feladatokat törölheti és módosíthatja is
     
     - Használati eset diagram:
-        ![Használati eset diagram](public/használatiesetdiagram.png)
+        ![Használati eset diagram](https://cloud.githubusercontent.com/assets/14542234/11077749/fa9bdd48-8801-11e5-8b45-cf7fd9cc970b.png)
     
     - Folyamatok pontos menete:
         + Házimunka felvitele
