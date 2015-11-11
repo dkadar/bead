@@ -43,8 +43,8 @@
 	  - Főoldal
 	  - Leírás
 	  - Bejelentkezés
-        
-        + Felhasználó
+	  
+        + Felhasználó:
         
             - Főoldal
 	    - Leírás
