@@ -27,8 +27,8 @@
         + Házimunka módosítása
         + Házimunka törlése
         
-        Keresés felvitelének folyamata:
-            ![Keresés felvitelének folyamata](public/AddnewTodo.png)
+        Todo felvitelének folyamata:
+            ![Todo felvitelének folyamata](https://cloud.githubusercontent.com/assets/14542234/11077751/fa9d3aee-8801-11e5-8050-c21749af1272.png)
 
 
 ##Tervezés
@@ -82,17 +82,17 @@
 
 2. Felhasználóifelület-modell
     - Oldalvázlatok
-    ![Todo-k listázása](public/todolist.jpg)
-    ![Új keresés felvétele](public/newtodov2.jpg)
+    ![Todo-k listázása](https://cloud.githubusercontent.com/assets/14542234/11077753/fab13184-8801-11e5-9cc8-f0679c6111ac.jpg)
+    ![Új keresés felvétele](https://cloud.githubusercontent.com/assets/14542234/11077752/faaf8bcc-8801-11e5-8362-38a0df6569a6.jpg)
 
 3. Osztálymodell
     - Adatmodell
     
-        ![Adatmodell](public/adatmodell.png)
+        ![Adatmodell](https://cloud.githubusercontent.com/assets/14542234/11077748/fa99c256-8801-11e5-8c92-7c43712e8db3.png)
 
     - Adatbázisterv
     
-        ![Adatbázisterv](public/idadat.png)
+        ![Adatbázisterv](https://cloud.githubusercontent.com/assets/14542234/11077746/fa995316-8801-11e5-9185-c0a73a8904d4.png)
 
 ##Implementáció
 1. Fejlesztői környezet bemutatása
@@ -115,8 +115,3 @@
     - CPU: Intel Core 2 Duo 2,16 GHz , AMD Athlon2 340 X2 
     - Memória: 2 GB DDR3
     - HDD: 1 GB
-
-##Tesztelés
-- A tesztelést Windows 8.1 operációs rendszeren, Google Chrome-ban végeztem Selenium IDE használatával végeztem
-- Hozzáadtam a listához egy új todot, leírását módosítottam, majd töröltem
-- A tesztelés sikeres volt
