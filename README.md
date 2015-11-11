@@ -55,6 +55,7 @@
 				+ Házimunka törlése
 
     - Végpontok
+    
         GET /: főoldal
 		
 		GET /about: leíró oldal
@@ -102,8 +103,6 @@
     - config: A Waterline konfigurációja (Waterline adatbázis absztrakciós réteg, gyűjteményeket, modelleket, adaptereket tartalmaz)
     - controllers: A vezérlő. Folyamatirányítás, kérés fogadása, feldolgozása 
     - models: Modellek definiálása, adatok és feldolgozási logika
-    - node_modules: 
-    - public: 
     - viewmodels: Nézetmodel
     - views: A kimenetért felelős rész, vagyis az egyes oldalak szerkezetét, kinézetét adja meg
 
