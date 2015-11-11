@@ -38,21 +38,21 @@
     
     - Oldaltérkép
     
-        + Publikus:
+		+ Publikus:
         
-	  - Főoldal
-	  - Leírás
-	  - Bejelentkezés
+			- Főoldal
+			- Leírás
+			- Bejelentkezés
 	  
-	+ Felhasználó:
+		+ Felhasználó:
         
-	  - Főoldal
-	  - Leírás
-	  - Bejelentkezés/Kijelentkezés
-	  - Házimunkák listája
-                + új házimunka felvétele
-                + Házimunka módosítása
-                + Házimunka törlése
+			- Főoldal
+			- Leírás
+			- Bejelentkezés/Kijelentkezés
+			- Házimunkák listája
+				+ új házimunka felvétele
+				+ Házimunka módosítása
+				+ Házimunka törlése
 
     - Végpontok
         GET /: főoldal
