@@ -44,12 +44,12 @@
 	  - Leírás
 	  - Bejelentkezés
 	  
-        + Felhasználó:
+	+ Felhasználó:
         
-            - Főoldal
-	    - Leírás
-            - Bejelentkezés/Kijelentkezés
-            - Házimunkák listája
+	  - Főoldal
+	  - Leírás
+	  - Bejelentkezés/Kijelentkezés
+	  - Házimunkák listája
                 + új házimunka felvétele
                 + Házimunka módosítása
                 + Házimunka törlése
